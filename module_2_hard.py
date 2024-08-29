@@ -5,7 +5,7 @@ def log():
     num = numbers(range(3,21))
     x = random.choice(num)
     x = log()
-    
+
 def password():
     passdict = {}
     passdict.update({3:12, 4:13, 5:1423, 6:121524, 7:162534, 8:13172635})
@@ -18,10 +18,10 @@ def password():
     passdict.update({20:13141911923282183731746416515614713812911})
     password = passdict.get()
 
-def exit()
-    pair1 = list(range(3,21))
-    pair2 = list(range(3,21))
-    pairs = []
+
+pair1 = x
+pair2 = password
+pairs = []
 
 
 for i in range pair1:
